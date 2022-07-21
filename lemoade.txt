@@ -9,7 +9,5 @@ Limonata Tarifi:
 3. limon
 4. nane
 5. buz
-6. portakal
-7. bardak
-8. buzdolabı
-9. para
+
+
