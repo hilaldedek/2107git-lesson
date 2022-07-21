@@ -1,6 +1,7 @@
-lezzetli
-mi
-lezzetli
+Lezzetli
+Mi
+Lezzetli 
+Hilal'in
 Limonata Tarifi:
 
 1. şeker
@@ -9,3 +10,6 @@ Limonata Tarifi:
 4. nane
 5. buz
 6. portakal
+7. bardak
+8. buzdolabı
+9. para
